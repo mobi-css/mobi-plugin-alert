@@ -1,0 +1,11 @@
+.alert-primary {
+  background-color: $color-background-primary-over;
+  border-left: $width-padding-input solid $color-background-primary;
+  padding: $width-gap-half $width-gap;
+}
+
+.alert-danger {
+  background-color: $color-background-danger-over;
+  border-left: $width-padding-input solid $color-background-danger;
+  padding: $width-gap-half $width-gap;
+}
